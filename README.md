@@ -5,5 +5,5 @@ Projeto de Introdução às Tecnologias Web
 TP1: 8.7
 TP2: 10.9
 
-P1: ?
-Projeto: ?
+P1: 12.45
+Projeto: 12
